@@ -1,0 +1,1448 @@
+
+There was an error when loading the generic ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.access$300(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:114)
+
+There was an error when loading the frozen_ocean ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the enchanted_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_mesa ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the southern alps ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the badlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the lowlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the brushlands hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the twilight_clearing ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mushroom_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the void ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the autumnal_wooded_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the extreme_hills_with_trees ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the glacier ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the desert_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the highlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the beaches ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_mesa_clear_rock ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the twilight_highlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the tropical jungle ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the jungle_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mushroom_island_shore ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the bushland hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the hot brushlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the frozen_river ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the white oaks hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_extreme_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the deep_ocean ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the barelands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the snow rocks plateau ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_savanna_rock ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the birch_forested_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the white woods hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the river ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the northern snow subalpine alps ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_redwood_taiga ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the cold_beach ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the fungi_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the stony reef ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the ice_mountains ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the biome_meneglin ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_extreme_hills_with_trees ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_roofed_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the sky ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the extreme southern alps ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mushroom_island ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_swampland ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the plains ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_savanna ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_redwood_taiga_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the thornlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the birch_forest_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_desert ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the red sand dunes ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mesa ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the white woods ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the wasteland flats slopes ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 7 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 6 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the ice_flats ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 9 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the low tall woodlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 8 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the grassy fen ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 3 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the glacier ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 5 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 4 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the jungle ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the desert_shrubland ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the ocean ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the forested_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the freebi's planet ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the taiga_cold ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the low spruce woodlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the dark_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the oak_savannah ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the woodlands hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the moorlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the white oaks ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the red_desert ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the storage_biome ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the forested canyon plateau m ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_ice_flats ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the snowy_coniferous_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 2 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the temperate_rainforest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the woodlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 1 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the redwood_taiga_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the taiga ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the taiga_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the northern snow alps ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the australian outback ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the northern alps ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the sand dunes m ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the jungle_edge ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the savanna ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the snow rocks mountains ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the redwood_taiga ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the ruthless_sands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the northern subalpine alps ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mesa_clear_rock ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the torrid_wasteland ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the savanna_rock ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the twilight_lake ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the arctic_abyss ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the fire_swamp ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the wasteland flats ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 10 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mountainous_desert ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the bush ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the lush_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the low woodlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the autumnal_woods ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 12 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the outer space 11 ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the nuclear_wasteland ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the extreme_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the rocky_plains ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the twilight_stream ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the smaller_extreme_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mini_jungle ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the twilight_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the snow rocks ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the rocky_plateau ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the biome_degraded ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the brushlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the dense brushlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the sand dunes oasis ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the desert ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the hell ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the ghost forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the stone_beach ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the green_swamp ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the twilight_swamp ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the high inhabited woodlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the lowlands chapparal ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the thicket ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the wasteland flats oasis ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the roofed_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the bluff ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mire ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mesa_rock ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the firefly_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the highlands_center ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the deep_mushroom_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the spooky_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the wasteland flats trees ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_jungle ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the arid_highland ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the dense_twilight_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_birch_forest_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the meadow ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the cliffs ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the orchid fields ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the forest_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the glacier_spikes ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the forested canyon pillars ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_mesa_rock ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the taiga_cold_hills ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_taiga_cold ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_jungle_edge ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the dark_forest_center ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the birch_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the swampland ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the forested canyon plateau ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_plains ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the snowy_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the high woodlands ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the sand dunes ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the twilight_glacier ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the grassy marshland ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the southern alps subalpine ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_taiga ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the mutated_birch_forest ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+There was an error when loading the archipelago ruins templates:
+java.lang.IllegalArgumentException: Invalid dimension id 2
+	at net.minecraft.world.DimensionType.func_186069_a(DimensionType.java:77)
+	at atomicstryker.ruins.common.FileHandler.addRuins(FileHandler.java:363)
+	at atomicstryker.ruins.common.FileHandler.loadSpecificTemplates(FileHandler.java:215)
+	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
+	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
+
+Loading options from: C:\MC Server\Zé Teco da Neneca\DIM2
+tries_per_chunk_normal = 4
+chance_to_spawn_normal = 7.0
+templateInstancesMinDistance = 550.0
+anyRuinsMinDistance = 180.0
+anySpawnMinDistance = 100
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world .\Zé Teco da Neneca\DIM2, template files: 0

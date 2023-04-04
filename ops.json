@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "0e34eeaa-9ea2-4ced-96b9-50745031e0fd",
+    "name": "MochaPaint",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c6bf163e-0ae2-3111-ac28-def83d5b8845",
+    "name": "GuiAnacleto",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fca6a10f-ab79-37c2-b332-6f22de315481",
+    "name": "Votto",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
