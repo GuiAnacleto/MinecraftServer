@@ -20,12 +20,15 @@
 -34 62 121 -27 71 128 Outcrop.tml
 -27 69 -104 -22 72 -97 Melonfield.tml
 5 67 815 12 70 820 PumpkinField.tml
+50 68 -342 63 77 -329 VolcanicVent.tml
 66 80 356 69 84 358 SkeletonHeadStatue.tml
 148 66 587 149 68 588 753_Seed_DeepQuark_CB.tml
 183 86 133 184 87 134 JG_BuriedFeatureSeed_CB_1v12.tml
 187 90 134 198 118 145 K10_Tower_01_1v12.tml
 191 65 -147 199 73 -140 JG_FoundationWoodHouse_1v12.tml
 284 62 376 287 68 380 StonePillar.tml
+375 68 -396 388 100 -383 OreSpire.tml
+375 61 715 380 64 722 Melonfield.tml
 380 63 -89 395 71 -80 Archway.tml
 382 79 143 396 129 157 JG_MineTowerSeed_CB_1v12.tml
 490 78 340 499 83 349 JG_SkullVineChamber_1v12.tml
@@ -33,3 +36,4 @@
 601 67 721 606 72 728 ZombieHut.tml
 685 79 467 699 96 480 JG_RuinedGuardHouse_1v12.tml
 696 96 223 709 128 236 OreSpire.tml
+775 87 34 778 91 36 SkeletonHeadStatue.tml

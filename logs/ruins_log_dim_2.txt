@@ -1438,7 +1438,7 @@ java.lang.IllegalArgumentException: Invalid dimension id 2
 	at atomicstryker.ruins.common.FileHandler.access$500(FileHandler.java:24)
 	at atomicstryker.ruins.common.FileHandler$LoaderThread.run(FileHandler.java:133)
 
-Loading options from: C:\MC Server\Zé Teco da Neneca\DIM2
+Loading options from: C:\Users\guilh\OneDrive\�rea de Trabalho\MinecraftServer\Zé Teco da Neneca\DIM2
 tries_per_chunk_normal = 4
 chance_to_spawn_normal = 7.0
 templateInstancesMinDistance = 550.0

@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-04-04 11:55:49 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2023-03-30 16:56:28 -0300"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-04-05 16:12:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2023-03-30 16:59:44 -0300"
@@ -335,6 +347,7 @@
       "bread": "2023-04-03 20:45:56 -0300",
       "cookie": "2023-04-03 12:04:29 -0300",
       "cooked_chicken": "2023-03-30 17:50:14 -0300",
+      "cooked_salmon": "2023-04-04 11:45:01 -0300",
       "carrot": "2023-04-03 13:47:05 -0300"
     },
     "done": false
@@ -342,6 +355,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2023-03-30 16:53:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-04-05 17:22:39 -0300"
     },
     "done": true
   },
@@ -669,6 +688,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "explode_iron": "2023-04-04 10:16:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2023-03-30 16:54:45 -0300"
@@ -723,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2023-04-05 17:09:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-03-30 17:46:17 -0300"
@@ -753,6 +784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-04-05 16:10:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-03-30 18:11:45 -0300"
@@ -773,6 +810,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2023-04-04 09:01:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-04-04 11:55:49 -0300"
     },
     "done": true
   },
@@ -851,6 +894,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2023-03-30 18:11:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2023-04-05 17:22:39 -0300"
     },
     "done": true
   },
@@ -968,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2023-04-04 12:12:55 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2023-03-30 17:16:41 -0300"
@@ -1052,6 +1107,12 @@
     },
     "done": true
   },
+  "bonsaitrees:root": {
+    "criteria": {
+      "bonsaipot_in_inventory": "2023-04-05 17:34:26 -0300"
+    },
+    "done": true
+  },
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2023-03-30 21:01:33 -0300"
@@ -1085,6 +1146,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2023-03-30 17:52:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-04-04 13:19:18 -0300"
     },
     "done": true
   },
@@ -1160,6 +1227,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-04-05 16:10:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-04-05 16:31:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2023-03-30 17:31:03 -0300"
@@ -1175,6 +1254,13 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-03-30 20:33:22 -0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "calc": "2023-04-05 17:22:39 -0300",
+      "eng": "2023-04-05 17:22:39 -0300"
     },
     "done": true
   },
@@ -1284,6 +1370,12 @@
   "dungeontactics:recipes/tools/gilded_shovel": {
     "criteria": {
       "has_item": "2023-03-30 17:52:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-04-05 16:31:57 -0300"
     },
     "done": true
   },
@@ -1436,6 +1528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-05 17:09:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-03-30 18:11:45 -0300"
@@ -1490,6 +1588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2023-04-05 17:09:05 -0300"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2023-03-30 21:01:30 -0300"
@@ -1514,6 +1618,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2023-04-04 11:46:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-05 17:09:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2023-03-30 19:42:59 -0300"
@@ -1535,6 +1651,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2023-03-30 16:41:01 -0300"
+    },
+    "done": true
+  },
+  "vulcanite:vulcanite/root": {
+    "criteria": {
+      "nether_trigger": "2023-04-04 11:55:49 -0300"
     },
     "done": true
   },
