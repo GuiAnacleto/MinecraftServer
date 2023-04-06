@@ -1,24 +1,24 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
 Luvely
-Phillip Swearingain
-Peregrinus11
-Pongo Sapiens
-Zuniroa
-Ivy_
-Spencer Gilbert
-Jessie Sims
-NerdyWhiteGuy
 WaterMoon
-Genryu
-Belathus
 SquidDev
-Quaternary
-AdaraChristine
-DreamThorn
 Fbigummy
 Hooley
+Belathus
+Zuniroa
+Jessie Sims
 Ncc1702
+Peregrinus11
+NickT
 BrÃƒÂ¸nsted
+NerdyWhiteGuy
+Spencer Gilbert
+AdaraChristine
+Ivy_
+Genryu
+Pongo Sapiens
+DreamThorn
+Phillip Swearingain
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -291,7 +291,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Magician Workshop\MW -Open Blocks.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Magician Workshop\MW -Thermal Stuff.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Workshops MAIN.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 10ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 18ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [alchemistry]
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Bees\BeeCombs and machines.zs} as we are currently loading with a different loader
@@ -562,7 +562,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Magician Workshop\MW -Open Blocks.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Magician Workshop\MW -Thermal Stuff.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Workshops MAIN.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 10ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 5ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Bees\BeeCombs and machines.zs} as we are currently loading with a different loader
@@ -833,7 +833,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Magician Workshop\MW -Open Blocks.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Magician Workshop\MW -Thermal Stuff.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Workshops\Workshops MAIN.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 403ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 540ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker], [recipeevent | crafttweaker]]
@@ -1204,7 +1204,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x item.schematic_tier10:0 -> 8 x item.contenttweaker.card_10:0
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for item.contenttweaker.chem_comp.name
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for item.contenttweaker.drinkglass.name
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@20608478, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b649570, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1456e50, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2df78791, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_salt_mixer recipe: 250 x darkessence, 250 x fluorite_water -> 500 x vinegar
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x item.glassBottle:0, 500 x vinegar -> 1 x item.vinegaritem:0
 [INITIALIZATION][SERVER][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for item.contenttweaker.dustotg.name
@@ -3102,10 +3102,10 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Retrieved pool main from table minecraft:entities/witch
 [INITIALIZATION][SERVER][INFO] Queueing entry minecraft:glass_bottle of pool main for removal
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Magic Chemistry\Alchemistry Elements.zs}
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@364ebb39, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[3xitem.alchemistry:element@9], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@53002d9a, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@231ebef7, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[3xitem.alchemistry:element@9], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@53002d9a, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@76ed8aa8, fluidStack=net.minecraftforge.fluids.FluidStack@28f7a7d6, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3539603f, fluidStack=net.minecraftforge.fluids.FluidStack@d44b99a, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5b2cb4a0, fluidStack=net.minecraftforge.fluids.FluidStack@187c4668, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@d135034, fluidStack=net.minecraftforge.fluids.FluidStack@380368b2, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@26ae20f7, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[3xitem.alchemistry:element@9], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@11dc8b53, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@26e86cf8, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[3xitem.alchemistry:element@9], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@11dc8b53, chance=0.0); Properties: DurationRecipeProperties(duration=80); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@54083302, fluidStack=net.minecraftforge.fluids.FluidStack@50654699, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@37618ec, fluidStack=net.minecraftforge.fluids.FluidStack@2271e5de, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@22f65070, fluidStack=net.minecraftforge.fluids.FluidStack@46c358b6, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@479c677a, fluidStack=net.minecraftforge.fluids.FluidStack@707f2d8, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Magic Chemistry\Carpenter & Lab Combiner.zs}
 [INITIALIZATION][SERVER][INFO] Adding a recipe for the Lab Blender
 [INITIALIZATION][SERVER][INFO] Adding a recipe for the Lab Blender
@@ -3269,10 +3269,10 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Recipes\Binnis Mod.zs}
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Fruit Press
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Recipes\Blood Magic.zs}
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4cdb20f7, fluidStack=net.minecraftforge.fluids.FluidStack@6487da75, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@264a16a, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7b5a6e79, fluidStack=net.minecraftforge.fluids.FluidStack@53be431e, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4ca7b0b5, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@596eed4e, fluidStack=net.minecraftforge.fluids.FluidStack@4b6e9c7c, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7e2668f8, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
-[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@56a7f8e3, fluidStack=net.minecraftforge.fluids.FluidStack@41fc68a6, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2774c89a, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@79a7f120, fluidStack=net.minecraftforge.fluids.FluidStack@52b3826b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1f11128b, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2d8438fb, fluidStack=net.minecraftforge.fluids.FluidStack@7c39f37c, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1230039b, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5458ce0c, fluidStack=net.minecraftforge.fluids.FluidStack@3244f55f, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@434a1b46, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
+[INITIALIZATION][SERVER][INFO] Adding 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@4f85b034, fluidStack=net.minecraftforge.fluids.FluidStack@46e9279b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5dbb5e84, chance=1.0); Properties: DurationXpRecipeProperties(duration=10, xp=10.0); 
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Blood Altar
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Incense Altar
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Hellfire Forge
@@ -3467,7 +3467,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Promise of Tenacity I
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Blood Extractor
 [INITIALIZATION][SERVER][INFO] Setting fuel for <evilcraft:dark_gem_crushed>
-[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2fe5501, fluidStack=net.minecraftforge.fluids.FluidStack@6487da75, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@742452d8, chance=1.0); Properties: DurationXpRecipeProperties(duration=500, xp=2.5); 
+[INITIALIZATION][SERVER][INFO] Removing 1 BloodInfuser Recipe(s) for BloodInfuser recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@29f89204, fluidStack=net.minecraftforge.fluids.FluidStack@52b3826b, chance=0.0); Output: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7a95b1a6, chance=1.0); Properties: DurationXpRecipeProperties(duration=500, xp=2.5); 
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Recipes\Exchangers.zs}
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Wooden Exchanger
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Stone Exchanger
@@ -3879,8 +3879,8 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Core Sample Drill
 [INITIALIZATION][SERVER][INFO] Removing Blueprint Recipe for Iron Mechanical Component
 [INITIALIZATION][SERVER][INFO] Removing Blueprint Recipe for Steel Mechanical Component
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@156a420, fluidStack=net.minecraftforge.fluids.FluidStack@4e455bbf, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5a294c4f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@67e0968, fluidStack=net.minecraftforge.fluids.FluidStack@4e455bbf, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@50fdb216, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@e1d52f9, fluidStack=net.minecraftforge.fluids.FluidStack@48fc0dde, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@31a9c57a, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@41fb28b, fluidStack=net.minecraftforge.fluids.FluidStack@48fc0dde, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@edbfbe4, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_ingot_former recipe: 1000 x concrete -> 1 x tile.immersiveengineering.stone_decoration:5
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Recipes\Industrial Foregoing.zs}
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Enchantment Sorter
@@ -3940,16 +3940,16 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Material StoneWork Factory
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_ingot_former recipe: 250 x plastic -> 1 x item.industrialforegoing_plastic:0
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Recipes\Integrated Dynamics.zs}
-[INITIALIZATION][SERVER][INFO] Removing 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@30c0a182, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@77e45d19, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
-[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@38792570, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7724aa39, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
+[INITIALIZATION][SERVER][INFO] Removing 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7162be60, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6f06f946, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
+[INITIALIZATION][SERVER][INFO] Removing 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@7b370102, fluidStack=null, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@6c539df7, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=10); 
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Mechanical Squeezer
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Mechanical Drying Basin
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Drying Basin
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Squeezer
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Energy Battery
-[INITIALIZATION][SERVER][INFO] Removing 3 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@13b87134, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@75082cf4, chance=0.0); Properties: DurationRecipeProperties(duration=20); , MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@538ab346, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@75082cf4, chance=0.0); Properties: DurationRecipeProperties(duration=750); , MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@45da2f23, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@75082cf4, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@49d008dd, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@75082cf4, chance=0.0); Properties: DurationRecipeProperties(duration=20); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3e6b0cfb, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@75082cf4, chance=0.0); Properties: DurationRecipeProperties(duration=20); 
+[INITIALIZATION][SERVER][INFO] Removing 3 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@22039f3a, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b3724bd, chance=0.0); Properties: DurationRecipeProperties(duration=20); , MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@82ef411, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b3724bd, chance=0.0); Properties: DurationRecipeProperties(duration=750); , MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5688881f, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b3724bd, chance=0.0); Properties: DurationRecipeProperties(duration=100); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@112d811a, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b3724bd, chance=0.0); Properties: DurationRecipeProperties(duration=20); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@56ede5ed, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b3724bd, chance=0.0); Properties: DurationRecipeProperties(duration=20); 
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Variable Store
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Recipes\Iron Chests.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Recipes\JEI.zs}
@@ -4609,8 +4609,8 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Advanced Alchemic Condenser
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Advanced Alchemic Retort
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Grape Juice
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3a0bf68f, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b649570, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@2f8a0150; 
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3d37c204, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1b649570, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@143846dc; 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@70ff2dd3, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2df78791, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@4318960c; 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4c014c7f, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@2df78791, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@74a178ca; 
 [INITIALIZATION][SERVER][INFO] Removing Crushing Tub Recipes for Fluid Olive Oil
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Olive Oil
 [INITIALIZATION][SERVER][INFO] Adding Crushing Tub Recipe for Fluid Olive Oil
@@ -5240,8 +5240,8 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Blacksmiths Workshop\03BW - Methan Gas Processing Lines.zs}
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 3 x item.peat_biomass:0 -> 1 x item.for.mulch:0, 1000 x methane
 [INITIALIZATION][SERVER][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for Methane Gas Cell
-[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3c4afa2, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1ea214c9, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@30b04e8d; 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3003f672, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@1ea214c9, chance=0.0); Properties: DurationRecipeProperties(duration=60); 
+[INITIALIZATION][SERVER][INFO] Adding 1 Squeezer Recipe(s) for Squeezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7f8b50e0, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@58dd7866, chance=0.0); Properties: org.cyclops.cyclopscore.recipe.custom.component.DummyPropertiesComponent@2c02802e; 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@61f7ed97, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@58dd7866, chance=0.0); Properties: DurationRecipeProperties(duration=60); 
 [INITIALIZATION][SERVER][INFO] Adding CHEMICAL_REACTOR_RECIPE recipe for Methane Gas Cell
 [INITIALIZATION][SERVER][INFO] Adding Extractor entiesHumus
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_extractor recipe: 1 x tile.for.humus:0 -> 1 x item.for.mulch:0 [ 25%, min: 0 ], 1500 x methane
@@ -5329,7 +5329,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Jewelers Workshop\JW - Evilcraft.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Jewelers Workshop\JW - Extra Utilitis.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Kitchen Workshop\Automation Food.zs}
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3d84d5dc, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[2xitem.cocoapowderitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@47b0eca, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2423b015, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[2xitem.cocoapowderitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@636f0779, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x item.bowl:0, 250 x milk -> 1 x item.heavycreamitem:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x item.bowl:0, 250 x milk_friesian -> 1 x item.heavycreamitem:0
 [INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x item.bowl:0, 250 x milk_goat -> 1 x item.heavycreamitem:0
@@ -5367,14 +5367,14 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Salt
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Kitchen Workshop\KW - Cooking&Olive_Oil Recipes 2.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Kitchen Workshop\KW - Cooking&Olive_Oil Recipes.zs}
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@553d1465, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.friedeggitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@12a0a932, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@9431032, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.friedeggitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@454d5c71, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Kitchen Workshop\KW - Ingredients.zs}
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3018fa8, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@3327f614, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@70ec8a75, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[2xitem.freshmilkitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@7d65b2cb, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@6a2806b3, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@3d7d36c8, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@73a1eaae, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[2xitem.freshmilkitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@41ab8a75, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Kitchen Workshop\KW - Normal Food recipes 2.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Kitchen Workshop\KW - Normal Food recipes.zs}
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1f65677e, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.scrambledeggitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@12a0a932, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2db554ac, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.scrambledeggitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@12a0a932, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@7a8face, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.scrambledeggitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@454d5c71, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalSqueezer Recipe(s) for MechanicalSqueezer recipe: Input: IngredientRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@5a1965d3, chance=1.0); Output: IngredientsAndFluidStackRecipeComponent(ingredient=IngredientsRecipeComponent(ingredients=[1xitem.scrambledeggitem@0], chance=0.0), fluidStack=net.minecraftforge.fluids.FluidStack@454d5c71, chance=0.0); Properties: DurationRecipeProperties(duration=40); 
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Workshops\Kitchen Workshop\Misc Food Balancing.zs}
 [INITIALIZATION][SERVER][INFO] Adding Cheese Slice to ore dictionary entry foodCheese
 [INITIALIZATION][SERVER][INFO] Removing Cheese Curd from ore dictionary entry foodCheese
@@ -5389,14 +5389,14 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Translating item.actuallyadditions.item_food_hamburger.name to Big Burger
 [INITIALIZATION][SERVER][INFO] Translating item.actuallyadditions.item_food_french_fries.name to 1000g Fries Oo
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Market
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@46da5dbe, fluidStack=net.minecraftforge.fluids.FluidStack@273cc9b4, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@67dce66a, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@38c362eb, fluidStack=net.minecraftforge.fluids.FluidStack@56f95ef8, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3fb10c77, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@2b129192, fluidStack=net.minecraftforge.fluids.FluidStack@78fed4cd, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@2bfddd2c, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@88a2682, fluidStack=net.minecraftforge.fluids.FluidStack@273cc9b4, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@3fef4150, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4ec93e, fluidStack=net.minecraftforge.fluids.FluidStack@56f95ef8, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@451f70a6, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1cf8e0b1, fluidStack=net.minecraftforge.fluids.FluidStack@78fed4cd, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@59d8d7bf, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4d15ee72, fluidStack=net.minecraftforge.fluids.FluidStack@361547c9, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5afa7552, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
-[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@3c63a1, fluidStack=net.minecraftforge.fluids.FluidStack@361547c9, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@5447081c, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@62533500, fluidStack=net.minecraftforge.fluids.FluidStack@79d72c07, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@1fcab1f2, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@39d41d79, fluidStack=net.minecraftforge.fluids.FluidStack@8fc1955, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@617f331f, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1a7fe105, fluidStack=net.minecraftforge.fluids.FluidStack@5bf07f63, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@50f08699, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@49d6762b, fluidStack=net.minecraftforge.fluids.FluidStack@79d72c07, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@512943c5, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@34bbe72c, fluidStack=net.minecraftforge.fluids.FluidStack@8fc1955, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@602b6b6c, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@1a362e6c, fluidStack=net.minecraftforge.fluids.FluidStack@5bf07f63, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@19a7184, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 DryingBasin Recipe(s) for DryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@4888110c, fluidStack=net.minecraftforge.fluids.FluidStack@6390f08d, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@20d54be, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
+[INITIALIZATION][SERVER][INFO] Adding 1 MechanicalDryingBasin Recipe(s) for MechanicalDryingBasin recipe: Input: IngredientAndFluidStackRecipeComponent(ingredient=org.cyclops.cyclopscore.recipe.xml.DefaultItemTypeHandler$IngredientNBT@38783863, fluidStack=net.minecraftforge.fluids.FluidStack@6390f08d, chance=0.0); Output: IngredientAndFluidStackRecipeComponent(ingredient=net.minecraft.item.crafting.Ingredient@61d8f7f8, fluidStack=null, chance=0.0); Properties: DurationRecipeProperties(duration=150); 
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Ground Trap
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Water Trap
 [INITIALIZATION][SERVER][INFO] Adding a Table Crafting recipe for Shipping Bin
@@ -5431,7 +5431,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <artisanworktables:workshop:7>: "Requires Tools and Liquids (Dark Magic Essence, White Magic Essence, Essence of the GODS, Liquid Starlight or Molten Lumium)"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <artisanworktables:workshop:4>: "You're a skilled craftsman and smith of magic trinkets and rings? Then this workshop could be exactly the right thing for you"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <artisanworktables:workshop:4>: "Requires Tools and Liquids (Molten Platin, Manyullyn, Enderium, Manasteel, Terrasteel, Osgloglas, Inferium, Prudentium, Superium)"
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 5065ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 6788ms
 [POSTINITIALIZATION][SERVER][INFO] Removing Inscriber Entry for Logic Processor
 [POSTINITIALIZATION][SERVER][INFO] Removing Inscriber Entry for Calculation Processor
 [POSTINITIALIZATION][SERVER][INFO] Removing Inscriber Entry for Engineering Processor
@@ -7360,12 +7360,12 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ore:oreSapphire>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ore:oreRuby>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ore:orePeridot>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:graphitedust>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:solidglue>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <natura:overworld_logs2:1>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:solidmush>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:rawricebread>
-[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:graphitedust>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:solidsilicon>
-[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:solidglue>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:rawbread>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <contenttweaker:rawbaguette>
 [POSTINITIALIZATION][SERVER][INFO] Altering RecipeWorktable Recipe(s) for "engineer"
@@ -11967,17 +11967,17 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering Imbuer Recipe(s) for <contenttweaker:whitemagicdust> and <liquid:darkessence> * 1000
 [AVAILABLE][SERVER][INFO] Altering Imbuer Recipe(s) for <contenttweaker:darkmagicdust> and <liquid:whiteessence> * 1000
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <contenttweaker:moonturf>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@528905b9"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@70be638a"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <contenttweaker:marsturf>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@66e6ed4"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@27298929"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <contenttweaker:demonicdust>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7ef5d09e"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@48188d90"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <contenttweaker:livingdust>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@c4db1a8"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6390aa30"
 [AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <contenttweaker:plate_vibra> in mode: ALL
 [AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <contenttweaker:plate_nucleum> in mode: ALL
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <contenttweaker:sandyglassdust>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5ccc3f34"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7f704f09"
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <contenttweaker:gluecompound> * 2
 [AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:superglue> * 1000
 [AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:silicone> * 1000
@@ -12262,7 +12262,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for item.contenttweaker.ingot_vibra.name
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Blood Infused Glowstone Dust
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <evilcraft:dark_gem_crushed>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@2cec49bf"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1c04b0dd"
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <contenttweaker:darkmagicdust>
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <contenttweaker:whitemagicdust>
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <contenttweaker:dustotg>
@@ -12303,21 +12303,21 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Adding 1 Empowerer Recipe(s) for <actuallyadditions:block_crystal_empowered:4>
 [AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:xpjuice> * 160
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <taiga:dilithium_dust>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@267c931c"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@28ad9f0c"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <taiga:dilithium_dust>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3e93812a"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@72959224"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <taiga:dilithium_dust>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@45c1383b"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1c8b593a"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <taiga:dilithium_dust>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5b09774a"
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1ad3b325"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1ebc809"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6e2a4a8f"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <appliedenergistics2:material:46>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6604cf80"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@a3e8e57"
 [AVAILABLE][SERVER][INFO] Altering EntityMelting Recipe(s) for <liquid:superglue> * 10
 [AVAILABLE][SERVER][INFO] Altering EntityMelting Recipe(s) for <liquid:superglue> * 10
 [AVAILABLE][SERVER][INFO] Adding 1 Empowerer Recipe(s) for <astralsorcery:itemcraftingcomponent:1> * 2
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <astralsorcery:itemcraftingcomponent> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@438480c3"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5dae5530"
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xtile.bloodmagic.itemRouting@0 from: [1xitem.ec.material@7,1xitem.enderPearl@0,1xitem.oc.material@7,1xitem.bloodarsenal.base_item@3] minSouls: 200.0, soulDrain: 10.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xtile.bloodmagic.masterRouting@0 from: [1xtile.ec.storage@1,1xitem.manaResource@2,1xitem.bloodmagic.slate@2,1xitem.eyeOfEnder@0] minSouls: 400.0, soulDrain: 50.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.baseComponent@2 from: [1xitem.ghastTear@0,1xitem.ghastTear@0,1xtile.basalt_block@0,1xitem.techreborn.cell@0] minSouls: 140.0, soulDrain: 30.0
@@ -12328,16 +12328,16 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xtile.bloodmagic.demonPylon@0 from: [1xitem.items.evilcraft.promise_acceptor@0,1xtile.tiberium_block@0,1xtile.blockLapis@0,1xitem.bloodarsenal.base_item@3] minSouls: 400.0, soulDrain: 50.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodmagic.sentientArmourGem@0 from: [1xitem.chestplateDiamond@0,1xtile.compressed_obsidian@5,1xtile.actuallyadditions.block_crystal_empowered@2,1xitem.items.evilcraft.promise_acceptor@2] minSouls: 400.0, soulDrain: 200.0
 [AVAILABLE][SERVER][INFO] Adding TartaricForge recipe for: 1xitem.bloodarsenal.base_item@9 from: [1xtile.ec.trimmed@5,1xtile.bloodmagic.@2,1xitem.ec.singularity@34,1xtile.ec.storage@2] minSouls: 16384.0, soulDrain: 16384.0
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@22f1e6e2 minTier: 0, syphon: 1500, consumeRate: 30, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@1 from: net.minecraft.item.crafting.Ingredient@4dcbc980 minTier: 1, syphon: 3000, consumeRate: 20, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@2 from: net.minecraft.item.crafting.Ingredient@5559cb0d minTier: 2, syphon: 6000, consumeRate: 15, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@3 from: net.minecraft.item.crafting.Ingredient@6784b839 minTier: 3, syphon: 15000, consumeRate: 10, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@4 from: net.minecraft.item.crafting.Ingredient@4a6f94dd minTier: 4, syphon: 30000, consumeRate: 5, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@5790ee38 minTier: 0, syphon: 5000, consumeRate: 30, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@706d483f minTier: 1, syphon: 10000, consumeRate: 25, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@33edbb1e minTier: 2, syphon: 25000, consumeRate: 20, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@6cf09d95 minTier: 3, syphon: 40000, consumeRate: 15, drainRate: 40
-[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@3cc14f1d minTier: 4, syphon: 80000, consumeRate: 10, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@0 from: net.minecraft.item.crafting.Ingredient@5d333d27 minTier: 0, syphon: 1500, consumeRate: 30, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@1 from: net.minecraft.item.crafting.Ingredient@1ad623c9 minTier: 1, syphon: 3000, consumeRate: 20, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@2 from: net.minecraft.item.crafting.Ingredient@37b9af1f minTier: 2, syphon: 6000, consumeRate: 15, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@3 from: net.minecraft.item.crafting.Ingredient@14682cdf minTier: 3, syphon: 15000, consumeRate: 10, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.slate@4 from: net.minecraft.item.crafting.Ingredient@50f6f170 minTier: 4, syphon: 30000, consumeRate: 5, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@61b0657 minTier: 0, syphon: 5000, consumeRate: 30, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@50cfeabf minTier: 1, syphon: 10000, consumeRate: 25, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@b6f178c minTier: 2, syphon: 25000, consumeRate: 20, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@ebe9661 minTier: 3, syphon: 40000, consumeRate: 15, drainRate: 40
+[AVAILABLE][SERVER][INFO] Adding Blood Altar recipe for: 1xitem.bloodmagic.orb@0 from: net.minecraft.item.crafting.Ingredient@50c9105f minTier: 4, syphon: 80000, consumeRate: 10, drainRate: 40
 [AVAILABLE][SERVER][INFO] Adding 1 Botania Rune Altar Recipe(s) for <botania:rune:1>
 [AVAILABLE][SERVER][INFO] Adding 1 Botania Rune Altar Recipe(s) for <botania:rune>
 [AVAILABLE][SERVER][INFO] Adding 1 Botania Rune Altar Recipe(s) for <botania:rune:2>
@@ -12502,11 +12502,11 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Adding chisel variation for group: tglass! and item: 1xtile.tconstruct.clear_stained_glass@7
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <draconicevolution:draconium_ingot>
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <draconicevolution:draconium_dust> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@634f77ce"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@240b1d5b"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <draconicevolution:draconium_dust> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@2b554e45"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@569b5712"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <draconicevolution:draconium_dust> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@9aef7b7"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7f81cfdb"
 [AVAILABLE][SERVER][INFO] Altering Sawmill Recipe(s) for <extraplanets:cloth> * 2
 [AVAILABLE][SERVER][INFO] Altering Sawmill Recipe(s) for <extraplanets:cloth> * 2
 [AVAILABLE][SERVER][INFO] Altering Sawmill Recipe(s) for <extraplanets:cloth> * 2
@@ -12535,15 +12535,15 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <extrautils2:ingredients:17>
 [AVAILABLE][SERVER][INFO] Altering Resonator Recipe(s) for <extrautils2:ingredients:9>
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:54>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7710b2c2"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7be71524"
 [AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:silicone> * 1296
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 15
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5e59565c"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@2617383b"
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <iceandfire:dragonsteel_fire_ingot>
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <iceandfire:dragonsteel_ice_ingot>
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <immersiveengineering:material:17>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@82642ba"
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@61556a4b"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@23f7e725"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@542b36cf"
 [AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <immersiveengineering:material:18> in mode: ALL
 [AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:plastic> * 100
 [AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:plastic> * 25
@@ -12674,9 +12674,9 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <minecraft:iron_ingot>
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <minecraft:gold_ingot>
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 9
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@26052834"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@25d28214"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:sugar> * 3
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraftforge.oredict.OreIngredient@22d146d6"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraftforge.oredict.OreIngredient@1efeebd9"
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:tough> * 144
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <nuclearcraft:alloy:1> * 2
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:tough> * 144
@@ -12729,15 +12729,15 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <refinedstorage:quartz_enriched_iron>
 [AVAILABLE][SERVER][INFO] Altering Resonator Recipe(s) for <rftools:powercell_card>
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <nuclearcraft:compound:8> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@121161c"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5766c83c"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <nuclearcraft:compound:8> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@60ebcd04"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@25711f3"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <nuclearcraft:compound:8> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@18faf6a3"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@32e2659"
 [AVAILABLE][SERVER][INFO] Altering Imbuer Recipe(s) for <mekanism:salt> * 3 and <liquid:water> * 1000
 [AVAILABLE][SERVER][INFO] Altering Imbuer Recipe(s) for <extraplanets:iodide_salt> * 3 and <liquid:water> * 1000
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <sgcraft:naquadah> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3469276c"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1e07694"
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <sgcraft:naquadahingot>
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:obsidiorite_fluid> * 288
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <taiga:ovium_ingot>
@@ -12759,13 +12759,13 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering Imbuer Recipe(s) for <overloaded:compressed_cobblestone> and <liquid:water> * 1000
 [AVAILABLE][SERVER][INFO] Altering Imbuer Recipe(s) for <overloaded:compressed_obsidian> and <liquid:water> * 1000
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:12>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1f8ccc5a"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@4ac6fd14"
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:iron> * 1152
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:iron> * 1152
 [AVAILABLE][SERVER][INFO] Altering Transposer Fill Recipe(s) for <liquid:cryotheum> * 1000
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:5> * 2
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:22>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@508286c8"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1b14ad73"
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:glass:3> * 2
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:glass:3> * 3
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:glass:3> * 4
@@ -12775,7 +12775,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:133> * 3
 [AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <minecraft:iron_ingot> * 3
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <thermalfoundation:material:72> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7911fc36"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@186a7094"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <thermalfoundation:material:70> * 2
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:quartz>
 [AVAILABLE][SERVER][INFO] Altering Transposer Fill Recipe(s) for <liquid:seed.oil> * 100
@@ -12802,7 +12802,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering Alloy Recipe(s) for <liquid:obsidiorite_fluid> * 2
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:dilithium_fluid> * 288
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <taiga:dilithium_dust> * 2
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7c16b4a7"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5a0438be"
 [AVAILABLE][SERVER][INFO] Altering Alloy Recipe(s) for <liquid:enderium> * 144
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:magma_fluid> * 72
 [AVAILABLE][SERVER][INFO] Altering Alloy Recipe(s) for <liquid:yrdeen_fluid> * 144
@@ -12853,21 +12853,21 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering Drying Recipe(s) for <tconstruct:edible:22>
 [AVAILABLE][SERVER][INFO] Altering Drying Recipe(s) for <tconstruct:edible:23>
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5b4707be"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@170e6c98"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7759c00b"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1cb8cb40"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@1c2fce4b"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@549007be"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@53c0e55d"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6bbdae94"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7c630a3b"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@79a04187"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@435af578"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@62fef079"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@5f396d90"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7c66a5fd"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <minecraft:dye:15> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7c097d53"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@409847a"
 [AVAILABLE][SERVER][INFO] Altering Centrifuge Recipe(s) for <valoegheses_be:soil_wet>
 [AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:infected_water_fluid> * 500
 [AVAILABLE][SERVER][INFO] Altering Melting Recipe(s) for <liquid:infected_water_fluid> * 500
@@ -12894,13 +12894,13 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering Forestry Still Recipe(s) for <liquid:oil>
 [AVAILABLE][SERVER][INFO] Altering Forestry Still Recipe(s) for <liquid:crude_oil> * 1000
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:43>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@7a83521a"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@2fc17793"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:45>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3a13b9ea"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@12145f24"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:45>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@737b9112"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@8b700d9"
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:36>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@72874f65"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@2f9bfe3f"
 [AVAILABLE][SERVER][INFO] Adding 1 Compost Recipe(s) for <cyclicmagic:peat_biomass>
 [AVAILABLE][SERVER][INFO] Altering PhytogenicInsolator Recipe(s) for <harvestcraft:doughitem>
 [AVAILABLE][SERVER][INFO] Altering PhytogenicInsolator Recipe(s) for <harvestcraft:donutitem> * 2
@@ -12962,7 +12962,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [AVAILABLE][SERVER][INFO] Altering Transposer Fill Recipe(s) for <liquid:milk_jersey> * 250
 [AVAILABLE][SERVER][INFO] Altering Transposer Fill Recipe(s) for <liquid:milk_sheep> * 250
 [AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <mekanism:salt> * 4
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@4b28b56c"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@13081c51"
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Cake
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Cake
 [AVAILABLE][SERVER][INFO] Altering Forestry Carpenter Recipe(s) for Dough

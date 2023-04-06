@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "code_triggered": "2023-04-05 21:27:14 -0300"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2023-03-30 16:41:01 -0300"
@@ -724,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-04-05 21:14:26 -0300"
+    },
+    "done": true
+  },
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2023-03-31 10:05:42 -0300"
@@ -1137,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2023-04-05 21:29:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2023-03-30 18:11:45 -0300"
@@ -1408,6 +1426,7 @@
       "birch_forest": "2023-03-30 17:24:46 -0300",
       "beaches": "2023-04-03 20:48:13 -0300",
       "plains": "2023-04-03 20:35:31 -0300",
+      "taiga": "2023-04-05 22:01:41 -0300",
       "birch_forest_hills": "2023-03-30 17:26:29 -0300",
       "extreme_hills": "2023-03-30 16:53:29 -0300",
       "river": "2023-03-30 17:24:39 -0300"
@@ -1693,6 +1712,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2023-03-30 17:16:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2023-04-05 21:44:40 -0300"
     },
     "done": true
   },

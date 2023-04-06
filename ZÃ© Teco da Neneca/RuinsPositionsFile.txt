@@ -10,10 +10,13 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -504 63 133 -491 79 159 JG_AirshipBlue_1v12.tml
+-416 77 -85 -409 93 -78 753_Cobbleshrine_Quark.tml
 -354 63 436 -341 82 449 753_Balloon_Harvestcraft.tml
 -305 64 201 -290 102 214 K10_Lighthouse_CB_1v12.tml
+-218 86 -147 -211 95 -140 JG_TestMiniDungeon_1v12.tml
 -212 79 646 -203 90 657 ArrowTrapTomb.tml
 -202 80 635 -201 82 636 753_Seed_DeepQuark_CB.tml
+-148 47 -357 -140 64 -331 shipwreck.tml
 -125 66 413 -120 72 418 CaveSpiderBurrow.tml
 -62 68 107 -55 72 114 TinyFarmField.tml
 -57 68 87 -35 80 139 AlchemistsDungeon.tml
@@ -34,6 +37,7 @@
 490 78 340 499 83 349 JG_SkullVineChamber_1v12.tml
 578 75 -48 594 88 -36 Barn-intact.tml
 601 67 721 606 72 728 ZombieHut.tml
+658 63 -243 659 65 -242 753_Seed_DeepQuark_CB.tml
 685 79 467 699 96 480 JG_RuinedGuardHouse_1v12.tml
 696 96 223 709 128 236 OreSpire.tml
 775 87 34 778 91 36 SkeletonHeadStatue.tml
